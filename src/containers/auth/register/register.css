@@ -1,0 +1,16 @@
+@media (max-width: 990px) {
+
+    .fillpage2 {
+        position: static;
+        /* minHeight:  */
+    }
+
+    #registerImg {
+        opacity: 0.5;
+        /* border: 1px solid black */
+    }
+
+    .register-container {
+        border: none;
+    }
+}
