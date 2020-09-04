@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/BREW_team_5/static/css/main.277d8e66.chunk.css",
+    "main.js": "/BREW_team_5/static/js/main.df8b132b.chunk.js",
+    "runtime-main.js": "/BREW_team_5/static/js/runtime-main.c454a52f.js",
+    "static/css/2.4df217b3.chunk.css": "/BREW_team_5/static/css/2.4df217b3.chunk.css",
+    "static/js/2.5e6331d4.chunk.js": "/BREW_team_5/static/js/2.5e6331d4.chunk.js",
+    "index.html": "/BREW_team_5/index.html",
+    "precache-manifest.76b2167701f9147e9e661ef4a7268f0f.js": "/BREW_team_5/precache-manifest.76b2167701f9147e9e661ef4a7268f0f.js",
+    "service-worker.js": "/BREW_team_5/service-worker.js",
+    "static/js/2.5e6331d4.chunk.js.LICENSE.txt": "/BREW_team_5/static/js/2.5e6331d4.chunk.js.LICENSE.txt",
+    "static/media/affiq.png": "/BREW_team_5/static/media/affiq.26e08a9e.png",
+    "static/media/aizat.png": "/BREW_team_5/static/media/aizat.433651c9.png",
+    "static/media/aliya.png": "/BREW_team_5/static/media/aliya.1cf966ba.png",
+    "static/media/banner1.jpg": "/BREW_team_5/static/media/banner1.d606b059.jpg",
+    "static/media/buddy.png": "/BREW_team_5/static/media/buddy.29c16612.png",
+    "static/media/fitri.png": "/BREW_team_5/static/media/fitri.92c317bd.png",
+    "static/media/frontpage.jpg": "/BREW_team_5/static/media/frontpage.e266d5a5.jpg",
+    "static/media/google-play-badge.png": "/BREW_team_5/static/media/google-play-badge.db9b21a1.png",
+    "static/media/login.png": "/BREW_team_5/static/media/login.875e76b3.png",
+    "static/media/lukman.jpg": "/BREW_team_5/static/media/lukman.4bbf1db5.jpg",
+    "static/media/mobile.png": "/BREW_team_5/static/media/mobile.dad0f7f2.png",
+    "static/media/organize.png": "/BREW_team_5/static/media/organize.6ce3570c.png",
+    "static/media/register.png": "/BREW_team_5/static/media/register.1e7a12ec.png",
+    "static/media/shakti.png": "/BREW_team_5/static/media/shakti.a95f2c03.png",
+    "static/media/shamiza.png": "/BREW_team_5/static/media/shamiza.834659b8.png",
+    "static/media/sharafi.png": "/BREW_team_5/static/media/sharafi.a3bcab97.png",
+    "static/media/siti.png": "/BREW_team_5/static/media/siti.3ee2a252.png",
+    "static/media/vlogo.png": "/BREW_team_5/static/media/vlogo.eedf5f53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c454a52f.js",
+    "static/css/2.4df217b3.chunk.css",
+    "static/js/2.5e6331d4.chunk.js",
+    "static/css/main.277d8e66.chunk.css",
+    "static/js/main.df8b132b.chunk.js"
+  ]
+}
