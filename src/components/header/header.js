@@ -111,7 +111,7 @@ class Header extends React.Component {
                                 {this.state.isLogin ? (
                                     <Nav className="mr-auto" navbar>
                                         <NavItem>
-                                            <NavLink><Link to="/dashboard" style={styles.linkstyle}>Dashboard</Link></NavLink>
+                                            <NavLink><Link to="/BREW_team_5/dashboard" style={styles.linkstyle}>Dashboard</Link></NavLink>
                                         </NavItem>
                                         {/* <NavItem>
                                             <NavLink><Link onClick={() => this.logoutPressed()} to="" style={styles.linkstyle}>Logout</Link></NavLink>
@@ -120,7 +120,7 @@ class Header extends React.Component {
                                 ) : (
                                     <Nav className="mr-auto" navbar>
                                         <NavItem>
-                                            <NavLink><Link to="/dashboard" style={styles.linkstyle}>Team <span style={PRIMARY_COLOR_FONT}>V</span></Link></NavLink>
+                                            <NavLink><Link to="/BREW_team_5/dashboard" style={styles.linkstyle}>Team <span style={PRIMARY_COLOR_FONT}>V</span></Link></NavLink>
                                         </NavItem>
                                         {/* <NavItem>
                                             <NavLink><Link to="/login" style={styles.linkstyle}>Login</Link></NavLink>

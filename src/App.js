@@ -33,7 +33,7 @@ function App() {
         <Router>
           <Header />
             <Switch>
-              <Route exact path="BREW_team_5/" component={Home} />
+              <Route path="/" component={Home} />
               <Route exact path="BREW_team_5/dashboard" component={Dashboard} />
               {/* <Route exact path="/dashboard/:id" component={TripDetails} /> */}
               {/* <Route exact path="/addtrip" component={AddTrip} /> */}
