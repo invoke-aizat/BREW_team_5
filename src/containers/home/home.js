@@ -4,6 +4,10 @@ import { Link } from "react-router-dom";
 import {Container, Row, Col, Button} from "reactstrap";
 
 import vlogo from "assets/images/brew/vlogo.png";
+import pillars from "assets/images/brew/pillars/pillar1.jpg";
+import pillars2 from "assets/images/brew/pillars/pillar2.jpg";
+import pillars3 from "assets/images/brew/pillars/pillar3.jpg";
+
 
 import {PRIMARY_COLOR, PRIMARY_COLOR_FONT} from "common/styles/index.js";
 import "./home.css";
@@ -59,12 +63,12 @@ class Home extends React.Component {
                 <Container className="themed-container" fluid={true} style={styles.fillPage}>
                     <div style={styles.firstContainer}>
                         <div style={styles.imageContainer}>
-                            <img id="frontpage"  alt="frontpage" loading="lazy" style={styles.frontImage}/>
+                            <img id="frontpage" src={pillars2} alt="frontpage" loading="lazy" style={styles.frontImage}/>
                         </div>
                         <div style={styles.contentContainer}>
                             <div style={styles.contentTopContainer}>
                                 <div>
-                                    <img src={vlogo} style={{width: 200, height: 100}} />
+                                    <img src={vlogo} style={{width: 200, height: 100,}} />
                                 </div>
                                 <div style={styles.titleContainer}>
                                     <h1>We are <span style={PRIMARY_COLOR_FONT}>V</span></h1>
@@ -176,6 +180,11 @@ const styles = {
         justifyContent: "center",
         minWidth: 400,
         // borderBottom: "1px solid rgba(0,0,0,0.4)",
+        // backgroundImage: `url(${pillars})`,
+        // objectFit: "cover",
+        // objectPosition: "center",
+        // opacity: 0.4,
+
     },
     firstContainer: {
         height: "80vh",
@@ -202,9 +211,10 @@ const styles = {
         height: "100%",
         backgroundPosition: "center",
         backgroundSize: "stretch",
+        opacity: 0.2
     },
     contentContainer: {
-        border: "1px solid black",
+        // border: "1px solid black",
         width: "70%",
         height: "70vh",
         backgroundColor: "none",
@@ -249,17 +259,21 @@ const styles = {
         margin: 20,
         overflow: "hidden",
         // borderRadius: 10,
+
         
         display: "flex",
         flexDirection: "row",
         justifyContent: "space-between",
-        alignItems: "center"
+        alignItems: "center",
+
+        background: "none",
     },
     fiveV: {
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        width: "100%"
+        width: "100%",
+        backgroundImage: "none"
     },
     selectContainer: {
         // width: "80%",
