@@ -367,17 +367,17 @@ class Dashboard extends React.Component {
                                                             image={aizat}
                                                             productName={"AZT"}
                                                             model={"v2.5"}
-                                                            intendedUse={""}
-                                                            features={[""]}
+                                                            intendedUse={"To be reliable"}
+                                                            features={["Reliable, makes decent pasta"]}
                                                             A={""}
-                                                            B={""}
-                                                            C={""}
-                                                            D={""}
-                                                            E={"s"}
-                                                            F={""}
-                                                            G={""}
-                                                            H={""}
-                                                            I={" "}
+                                                            B={"Like a  20 year old Honda that never breaks now"}
+                                                            C={"Sarcastic/cranky when running on less than 3 hours of sleep"}
+                                                            D={"Adequate coffee"}
+                                                            E={"Just give coffee"}
+                                                            F={"Get enough coffee"}
+                                                            G={"Coffee."}
+                                                            H={"8 hours of blissful sleep"}
+                                                            I={"Recycle when done"}
                                                             J={""}
 
                                                         />

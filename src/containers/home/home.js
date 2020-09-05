@@ -61,16 +61,16 @@ class Home extends React.Component {
     render() {
         return (
             <>  
-                <Container className="themed-container" fluid={true} style={styles.fillPage}>
+                <Container className="themed-container" fluid="xl" style={styles.fillPage}>
                     <div style={styles.firstContainer}>
                         <div style={styles.imageContainer}>
                             <img id="frontpage" src={teamfront} alt="frontpage" loading="lazy" style={styles.frontImage}/>
                         </div>
                         <div style={styles.contentContainer}>
                             <div style={styles.contentTopContainer}>
-                                <div>
+                                {/* <div className="logo">
                                     <img src={vlogo} style={{width: 300, height: 200,}} />
-                                </div>
+                                </div> */}
                                 <div style={styles.titleContainer}>
                                     {/* <h1 style={{fontSize: 48}}> <span style={PRIMARY_COLOR_FONT}>V</span></h1> */}
                                     {/* <div style={styles.fiveVContainer}>
@@ -146,7 +146,7 @@ class Home extends React.Component {
                         </Col>
                     </Row>
 
-                    {/* -------------------LEARN ROW 3------------------------------------- */}
+                    {/* -------------------LEARN ROW 3-------------------------------------
                     <Row md="12" style={styles.learnRow}>
                         <Col xs="12" sm="12" md="12" lg="12" xl="12" style={styles.learnColTwo}>
                             <div style={styles.textBox}>
@@ -154,7 +154,7 @@ class Home extends React.Component {
                                 <p className="learn-text"><strong>What is INVOKE without V</strong></p>
                             </div>
                         </Col>
-                    </Row>
+                    </Row> */}
                 </Container>
             </>
         )
@@ -211,8 +211,8 @@ const styles = {
         // height: "80vh",
         height: "100%",
         backgroundPosition: "center",
-        backgroundSize: "stretch",
-        opacity: 0.8
+        backgroundSize: "content",
+        // opacity: 0.8
     },
     contentContainer: {
         // border: "1px solid black",
