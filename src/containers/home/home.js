@@ -7,6 +7,7 @@ import vlogo from "assets/images/brew/vlogo.png";
 import pillars from "assets/images/brew/pillars/pillar1.jpg";
 import pillars2 from "assets/images/brew/pillars/pillar2.jpg";
 import pillars3 from "assets/images/brew/pillars/pillar3.jpg";
+import teamfront from "assets/images/brew/team5front.jpg";
 
 
 import {PRIMARY_COLOR, PRIMARY_COLOR_FONT} from "common/styles/index.js";
@@ -63,22 +64,22 @@ class Home extends React.Component {
                 <Container className="themed-container" fluid={true} style={styles.fillPage}>
                     <div style={styles.firstContainer}>
                         <div style={styles.imageContainer}>
-                            <img id="frontpage" src={pillars2} alt="frontpage" loading="lazy" style={styles.frontImage}/>
+                            <img id="frontpage" src={teamfront} alt="frontpage" loading="lazy" style={styles.frontImage}/>
                         </div>
                         <div style={styles.contentContainer}>
                             <div style={styles.contentTopContainer}>
                                 <div>
-                                    <img src={vlogo} style={{width: 200, height: 100,}} />
+                                    <img src={vlogo} style={{width: 300, height: 200,}} />
                                 </div>
                                 <div style={styles.titleContainer}>
-                                    <h1>We are <span style={PRIMARY_COLOR_FONT}>V</span></h1>
-                                    <div style={styles.fiveVContainer}>
+                                    {/* <h1 style={{fontSize: 48}}> <span style={PRIMARY_COLOR_FONT}>V</span></h1> */}
+                                    {/* <div style={styles.fiveVContainer}>
                                         <div style={styles.fiveV}><h5><span style={PRIMARY_COLOR_FONT}>V</span>olume</h5></div>
                                         <div style={styles.fiveV}><h5><span style={PRIMARY_COLOR_FONT}>V</span>elocity</h5></div>
                                         <div style={styles.fiveV}><h5><span style={PRIMARY_COLOR_FONT}>V</span>ariety</h5></div>
                                         <div style={styles.fiveV}><h5><span style={PRIMARY_COLOR_FONT}>V</span>eracity</h5></div>
                                         <div style={styles.fiveV}><h5><span style={PRIMARY_COLOR_FONT}>V</span>alue</h5></div>
-                                    </div>
+                                    </div> */}
                                 </div>
 
 {/* 
@@ -211,18 +212,19 @@ const styles = {
         height: "100%",
         backgroundPosition: "center",
         backgroundSize: "stretch",
-        opacity: 0.2
+        opacity: 0.8
     },
     contentContainer: {
         // border: "1px solid black",
         width: "70%",
-        height: "70vh",
+        height: "40vh",
         backgroundColor: "none",
         display: "flex",
         flexDirection: "column",
-        justifyContent: "center",
+        justifyContent: "flex-start",
         alignItems: "flex-start",
         // padding: 40,
+        color: "white",
         
         position: "absolute",
         zIndex: 1,
@@ -249,6 +251,7 @@ const styles = {
         alignItems: "center",
         
         padding: 20,
+        // border: "1px solid black"
     },
     fiveVContainer: {
         width: "200%",
