@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1583cd4bac6bd8b7169448283eb2ff2a",
+    "revision": "e725fa399b1e4bcbd8d1527db7eb68bb",
     "url": "/BREW_team_5/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BREW_team_5/static/css/2.4df217b3.chunk.css"
   },
   {
-    "revision": "2198b4e2531572eaf314",
+    "revision": "68c94f278b947b007f57",
     "url": "/BREW_team_5/static/css/main.277d8e66.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BREW_team_5/static/js/2.35e7961c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2198b4e2531572eaf314",
-    "url": "/BREW_team_5/static/js/main.e0c0a4b0.chunk.js"
+    "revision": "68c94f278b947b007f57",
+    "url": "/BREW_team_5/static/js/main.fd67a17e.chunk.js"
   },
   {
     "revision": "8ba6fb8c4e0cffd389b2",
