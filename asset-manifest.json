@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BREW_team_5/static/css/main.277d8e66.chunk.css",
-    "main.js": "/BREW_team_5/static/js/main.df8b132b.chunk.js",
+    "main.js": "/BREW_team_5/static/js/main.b0adcc7a.chunk.js",
     "runtime-main.js": "/BREW_team_5/static/js/runtime-main.c454a52f.js",
     "static/css/2.4df217b3.chunk.css": "/BREW_team_5/static/css/2.4df217b3.chunk.css",
-    "static/js/2.5e6331d4.chunk.js": "/BREW_team_5/static/js/2.5e6331d4.chunk.js",
+    "static/js/2.35e7961c.chunk.js": "/BREW_team_5/static/js/2.35e7961c.chunk.js",
     "index.html": "/BREW_team_5/index.html",
-    "precache-manifest.76b2167701f9147e9e661ef4a7268f0f.js": "/BREW_team_5/precache-manifest.76b2167701f9147e9e661ef4a7268f0f.js",
+    "precache-manifest.703af01d2e5052facd9af4a21a162fdd.js": "/BREW_team_5/precache-manifest.703af01d2e5052facd9af4a21a162fdd.js",
     "service-worker.js": "/BREW_team_5/service-worker.js",
-    "static/js/2.5e6331d4.chunk.js.LICENSE.txt": "/BREW_team_5/static/js/2.5e6331d4.chunk.js.LICENSE.txt",
+    "static/js/2.35e7961c.chunk.js.LICENSE.txt": "/BREW_team_5/static/js/2.35e7961c.chunk.js.LICENSE.txt",
     "static/media/affiq.png": "/BREW_team_5/static/media/affiq.26e08a9e.png",
     "static/media/aizat.png": "/BREW_team_5/static/media/aizat.433651c9.png",
     "static/media/aliya.png": "/BREW_team_5/static/media/aliya.1cf966ba.png",
@@ -21,6 +21,9 @@
     "static/media/lukman.jpg": "/BREW_team_5/static/media/lukman.4bbf1db5.jpg",
     "static/media/mobile.png": "/BREW_team_5/static/media/mobile.dad0f7f2.png",
     "static/media/organize.png": "/BREW_team_5/static/media/organize.6ce3570c.png",
+    "static/media/pillar1.jpg": "/BREW_team_5/static/media/pillar1.98c75226.jpg",
+    "static/media/pillar2.jpg": "/BREW_team_5/static/media/pillar2.3a9d2085.jpg",
+    "static/media/pillar3.jpg": "/BREW_team_5/static/media/pillar3.6cc00bee.jpg",
     "static/media/register.png": "/BREW_team_5/static/media/register.1e7a12ec.png",
     "static/media/shakti.png": "/BREW_team_5/static/media/shakti.a95f2c03.png",
     "static/media/shamiza.png": "/BREW_team_5/static/media/shamiza.834659b8.png",
@@ -31,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.c454a52f.js",
     "static/css/2.4df217b3.chunk.css",
-    "static/js/2.5e6331d4.chunk.js",
+    "static/js/2.35e7961c.chunk.js",
     "static/css/main.277d8e66.chunk.css",
-    "static/js/main.df8b132b.chunk.js"
+    "static/js/main.b0adcc7a.chunk.js"
   ]
 }
