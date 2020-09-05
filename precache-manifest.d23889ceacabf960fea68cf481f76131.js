@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89229a87c93fb78eb47c9355efdb48ec",
+    "revision": "40c26f69108d22c96a56bf36c3aea09d",
     "url": "/BREW_team_5/index.html"
   },
   {
-    "revision": "53f4a2c13df658df41a0",
+    "revision": "560c4e62c66c109fa8bb",
     "url": "/BREW_team_5/static/css/2.4df217b3.chunk.css"
   },
   {
-    "revision": "ac9fac0e549465a8abf9",
+    "revision": "1a30ba10783d734a057b",
     "url": "/BREW_team_5/static/css/main.d8bfdb40.chunk.css"
   },
   {
-    "revision": "53f4a2c13df658df41a0",
-    "url": "/BREW_team_5/static/js/2.d7c0c70d.chunk.js"
+    "revision": "560c4e62c66c109fa8bb",
+    "url": "/BREW_team_5/static/js/2.6d863b58.chunk.js"
   },
   {
     "revision": "ae5514eb1e4e0cc97b3500adac3ad9a8",
-    "url": "/BREW_team_5/static/js/2.d7c0c70d.chunk.js.LICENSE.txt"
+    "url": "/BREW_team_5/static/js/2.6d863b58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac9fac0e549465a8abf9",
-    "url": "/BREW_team_5/static/js/main.69513479.chunk.js"
+    "revision": "1a30ba10783d734a057b",
+    "url": "/BREW_team_5/static/js/main.46bb8198.chunk.js"
   },
   {
     "revision": "8ba6fb8c4e0cffd389b2",

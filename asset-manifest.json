@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/BREW_team_5/static/css/main.d8bfdb40.chunk.css",
-    "main.js": "/BREW_team_5/static/js/main.69513479.chunk.js",
+    "main.js": "/BREW_team_5/static/js/main.46bb8198.chunk.js",
     "runtime-main.js": "/BREW_team_5/static/js/runtime-main.c454a52f.js",
     "static/css/2.4df217b3.chunk.css": "/BREW_team_5/static/css/2.4df217b3.chunk.css",
-    "static/js/2.d7c0c70d.chunk.js": "/BREW_team_5/static/js/2.d7c0c70d.chunk.js",
+    "static/js/2.6d863b58.chunk.js": "/BREW_team_5/static/js/2.6d863b58.chunk.js",
     "index.html": "/BREW_team_5/index.html",
-    "precache-manifest.7846db5f27f98879b5c76cecea5b86a6.js": "/BREW_team_5/precache-manifest.7846db5f27f98879b5c76cecea5b86a6.js",
+    "precache-manifest.d23889ceacabf960fea68cf481f76131.js": "/BREW_team_5/precache-manifest.d23889ceacabf960fea68cf481f76131.js",
     "service-worker.js": "/BREW_team_5/service-worker.js",
-    "static/js/2.d7c0c70d.chunk.js.LICENSE.txt": "/BREW_team_5/static/js/2.d7c0c70d.chunk.js.LICENSE.txt",
+    "static/js/2.6d863b58.chunk.js.LICENSE.txt": "/BREW_team_5/static/js/2.6d863b58.chunk.js.LICENSE.txt",
     "static/media/affiq.png": "/BREW_team_5/static/media/affiq.26e08a9e.png",
     "static/media/aizat.png": "/BREW_team_5/static/media/aizat.433651c9.png",
     "static/media/aliya.png": "/BREW_team_5/static/media/aliya.1cf966ba.png",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.c454a52f.js",
     "static/css/2.4df217b3.chunk.css",
-    "static/js/2.d7c0c70d.chunk.js",
+    "static/js/2.6d863b58.chunk.js",
     "static/css/main.d8bfdb40.chunk.css",
-    "static/js/main.69513479.chunk.js"
+    "static/js/main.46bb8198.chunk.js"
   ]
 }
