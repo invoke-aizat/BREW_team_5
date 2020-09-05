@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/BREW_team_5/static/css/main.277d8e66.chunk.css",
-    "main.js": "/BREW_team_5/static/js/main.b0adcc7a.chunk.js",
+    "main.js": "/BREW_team_5/static/js/main.009fdf07.chunk.js",
     "runtime-main.js": "/BREW_team_5/static/js/runtime-main.c454a52f.js",
     "static/css/2.4df217b3.chunk.css": "/BREW_team_5/static/css/2.4df217b3.chunk.css",
     "static/js/2.35e7961c.chunk.js": "/BREW_team_5/static/js/2.35e7961c.chunk.js",
     "index.html": "/BREW_team_5/index.html",
-    "precache-manifest.703af01d2e5052facd9af4a21a162fdd.js": "/BREW_team_5/precache-manifest.703af01d2e5052facd9af4a21a162fdd.js",
+    "precache-manifest.3a23791b03e3cf26ac58f4e5b41cf700.js": "/BREW_team_5/precache-manifest.3a23791b03e3cf26ac58f4e5b41cf700.js",
     "service-worker.js": "/BREW_team_5/service-worker.js",
     "static/js/2.35e7961c.chunk.js.LICENSE.txt": "/BREW_team_5/static/js/2.35e7961c.chunk.js.LICENSE.txt",
     "static/media/affiq.png": "/BREW_team_5/static/media/affiq.26e08a9e.png",
@@ -36,6 +36,6 @@
     "static/css/2.4df217b3.chunk.css",
     "static/js/2.35e7961c.chunk.js",
     "static/css/main.277d8e66.chunk.css",
-    "static/js/main.b0adcc7a.chunk.js"
+    "static/js/main.009fdf07.chunk.js"
   ]
 }
