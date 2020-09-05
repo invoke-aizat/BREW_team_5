@@ -16,11 +16,11 @@ class Footer extends React.Component {
         return(
             <>  
             <Container className="themed-container" fluid={true} style={{...styles.fillPage, ...PRIMARY_COLOR, marginTop: 50}}>
-                <Container className="themed-container" fluid="xl" style={{...styles.fillPage, ...PRIMARY_COLOR}}>
+                <Container className="themed-container" fluid={true} style={{...styles.fillPage, ...PRIMARY_COLOR}}>
                     {/* <h5>This is footer</h5> */}
 
                     <Row style={{width: "100%", padding: 0, margin: 0, display: "flex", justifyContent: "center", alignItems: "flex-start"}}>
-                        <Col id="col-one" xs="12" sm="12" md="4" lg="4" xl="4" style={styles.colContainer}>
+                        {/* <Col id="col-one" xs="12" sm="12" md="4" lg="4" xl="4" style={styles.colContainer}>
                             <p><strong>Keep track of all your travel informations with the TripBantu mobile apps.</strong></p>
                             <p>Anything you plan or save automatically syncs with the apps, ready for you when you travel!</p>
 
@@ -28,36 +28,20 @@ class Footer extends React.Component {
                                 <img src={appStore} placeholder="applestore" style={styles.appleButton}/>
                                 <img src={googlePlay} placeholder="googleplay" style={styles.googleButton}/>
                             </div>
-                        </Col>
+                        </Col> */}
 
-                        <Col id="col-two" xs="12" sm="12" md="4" lg="4" xl="4" style={styles.colContainerTwo}>
-                            <div style={styles.aboutContainer}>
-                                <p>About:</p>
-                                <h6>About Us</h6>
-                                <h6>Team</h6>
-                                <h6>Careers</h6>
-                                <h6>Support</h6>
-                                <h6>Contact</h6>
-                            </div>
+                        {/* <Col xs="12" sm="12" md="12" lg="12" xl="12" style={styles.learnColTwo}> */}
+                            {/* <div style={styles.textBox}> */}
+                                
+                                <p><strong>What is INVOKE without V</strong></p>
+                            {/* </div> */}
+                        {/* </Col> */}
 
-                            <div style={styles.iconContainer}>
-                                <p>Don't forget to tag us in your trips!</p>
-
-                                <div className="social-icon" style={styles.socialIcon}>
-                                    <ion-icon name="logo-instagram" style={styles.icon}></ion-icon>
-                                    <ion-icon name="logo-twitter" style={styles.icon}></ion-icon>
-                                    <ion-icon name="logo-facebook" style={styles.icon}></ion-icon>
-                                    <ion-icon name="logo-pinterest" style={styles.icon}></ion-icon>
-                                    <ion-icon name="logo-linkedin" style={styles.icon}></ion-icon>
-                                </div>
-                            </div>
-                        </Col>
-
-                        <Col id="col-three" xs="12" sm="12" md="4" lg="4" xl="4" style={styles.colContainerThree}>
+                        {/* <Col id="col-three" xs="12" sm="12" md="4" lg="4" xl="4" style={styles.colContainerThree}>
                             <p>Privacy Policy</p>
                             <p>Terms and Conditions</p>
                             <p>Copyright</p>
-                        </Col>
+                        </Col> */}
                     </Row>
                 </Container>
             </Container>
@@ -68,6 +52,8 @@ class Footer extends React.Component {
 
 const styles = {
     fillPage: {
+        margin: 0,
+        padding: 0,
         // border: "1px solid rgba(0,0,0,0.4)",
         width: "100%",
         margin: "auto",
@@ -76,10 +62,11 @@ const styles = {
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        minWidth: 400,
-        minHeight: 400,
+        // minWidth: 400,
+        // minHeight: 400,
+        
 
-        color: "#ECF0F1"
+        backgroundColor: "#F1C40F"
         // borderBottom: "1px solid rgba(0,0,0,0.4)",
     },
 

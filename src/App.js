@@ -42,7 +42,7 @@ function App() {
               {/* <Route path="/register" component={Register}/> */}
               {/* <Route path="/discover" component={TriposoArticle} /> */}
             </Switch>
-          {/* <Footer /> */}
+          <Footer />
         </Router>
 
       </PersistGate>
